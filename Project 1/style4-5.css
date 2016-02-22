@@ -1,0 +1,60 @@
+div {
+	border:5px solid grey;
+	width:1000px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+h2{
+	text-align: center;
+	color: blue;
+	font-family: courier;
+	font-size: 30px;
+}
+h1 {
+	margin-left: 700px;
+	border: 20px solid black;
+	width: 300px;
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 80px;
+	text-align: center;
+
+}
+.stanza1 {
+	
+	background-color: red;
+	
+}
+
+.stanza2 {
+	margin-left: 700px;
+	background-color: black;
+	color: white;
+	
+}
+
+.stanza3 {
+
+	background-color: navy;
+}
+
+.stanza4 {
+	margin-left: 700px;
+	background-color: yellow;
+
+
+}
+
+.stanza5 {
+
+	background-color: orange;
+
+}
+.stanza7 {
+	margin-left: 700px;
+	background-color: magenta;
+}
+.stanza8 {
+	
+	background-color: pink;
+}

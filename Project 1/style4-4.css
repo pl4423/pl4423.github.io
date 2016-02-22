@@ -1,0 +1,49 @@
+div {
+	border:5px solid grey;
+	width:1000px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+h1 {
+	margin-left: 400px;
+	border: 20px dotted black;
+	width: 200px;
+	padding-left: 40px;
+}
+.stanza1 {
+	margin-left: 800px;
+	
+}
+
+.stanza2 {
+	margin-left: 700px
+	
+}
+
+.stanza3 {
+
+	margin-left: 600px
+}
+
+.stanza4 {
+	margin-left: 500px
+
+
+}
+
+.stanza5 {
+
+	margin-left: 400px
+}
+.stanza6 {
+
+	margin-left: 300px
+}
+.stanza7 {
+
+	margin-left: 200px
+}
+.stanza8 {
+
+	margin-left: 100px
+}

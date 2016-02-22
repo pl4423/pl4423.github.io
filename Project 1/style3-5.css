@@ -1,0 +1,52 @@
+div{
+	border:5px solid black;
+	width: 300px;
+	padding-left:20px;
+}
+h1 {
+	margin-left: 400px;
+}
+h2 {
+	border:10px dashed yellow;
+	width: 400px;
+	padding: 20px;
+	
+}
+.stanza1 {
+	margin-left: 100px;
+	
+}
+
+.stanza2 {
+margin-left: 200px;
+	
+}
+
+.stanza3 {
+
+margin-left: 300px;
+}
+
+.stanza4 {
+margin-left: 400px;
+
+
+}
+
+.stanza5 {
+
+margin-left: 300px;
+}
+.stanza6 {
+
+margin-left: 200px;
+}
+.stanza7 {
+
+margin-left: 100px;
+}
+
+.stanza8 {
+
+margin-left: 0px;
+}

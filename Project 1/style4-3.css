@@ -1,0 +1,56 @@
+*{
+font-family: Arial, Helvetica, sans-serif;
+
+}
+
+h1 { 
+	font-variant: small-caps;
+	font-size: 40px;
+	text-align: right;
+	width: 400px;
+	border: 10px solid red;
+	text-align: center;
+	
+
+}
+
+
+.stanza1 {
+
+font-size: 30px;
+text-align: right;
+}
+
+.stanza2 {
+
+}
+	
+	
+
+.stanza3 {
+font-size: 30px;
+text-align: right;
+	
+
+}
+
+.stanza4 {
+font-size: 30px;
+text-align: right;
+}
+
+.stanza5 {
+
+}
+.stanza6 {
+font-size: 30px;
+text-align: right;
+
+}
+.stanza7 {
+
+
+}
+.stanza8 {font-size: 30px;
+text-align: right;
+}
