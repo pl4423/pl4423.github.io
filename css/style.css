@@ -150,6 +150,7 @@ font-weight: bold;
 .st-content p {
     margin: 0;
     padding: 0;
+    border: 0;
 
     font-size: 14px;
 }
