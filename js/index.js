@@ -38,3 +38,4 @@ $('.gallery li').click(function (e) {
 		$lightbox.fadeOut('fast');
 	});
 });
+

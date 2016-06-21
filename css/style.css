@@ -261,9 +261,32 @@ input{
 
 
 /* Invision embed */
+/*.invision-container {
+  position: relative;
+  height: 0;
+  overflow: hidden;
+  padding-bottom: 204%;
+}*/
+
+ 
+/*.invision-container iframe {
+  position: absolute;
+  top:0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}  
+*/
+
 .invision-embed {
-  transform: scale(0.5);
-  margin-left: -10%;
+  display: block;
+  width: 100%;
+  height: 900px;
+  border: 1px solid #666;
+  box-sizing: border-box;
+  transform-origin: center top;
+  transition: transform .05s linear;
+  backface-visibility: hidden;
 }
 
 /* responsive youtube embed */
@@ -341,10 +364,6 @@ input{
   .mobile-header {
     display: none;
 
-  }
-
-  .invision-embed {
-    transform: scale(1.0);
   }
 
   /* ST accordian styling */
