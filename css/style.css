@@ -59,7 +59,7 @@ input{
 #main-menu {
   background-color: #4ECECE;
 
-  text-align: center;
+  text-align: right;
 
   position: fixed;
   top: 0;
@@ -342,8 +342,6 @@ input{
   margin: 0;
   padding: 0;
   border: 0;
-
-  font-size: 14px;
 }
 .st-content h2 {
   font-size: 20px;
