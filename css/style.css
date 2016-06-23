@@ -262,6 +262,7 @@ input{
 
 /* Invision embed */
 .invision-embed {
+  border: 0;
   transform: scale(0.5);
   margin-left: -10%;
 }
